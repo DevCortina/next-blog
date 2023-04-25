@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>`${siteTitle} Soluciones`</title>
+        <title>{siteTitle} Soluciones</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>👋 Hola! Soy Carlos, y puedo hacer que eso que tu llamas idea 💡, 
